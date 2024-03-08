@@ -21,9 +21,18 @@
 ### 3. Trial and Control Analysis
 - Assessed the impact of new trial layouts, providing data-driven recommendations on whether to roll out the trial layouts across all stores. 
 
-This analysis provides valuable insights into customer behavior and trends, guiding strategic decisions for Inside Sherpa's chip sales.
+##### This analysis provides valuable insights into customer behavior and trends, guiding strategic decisions for Inside Sherpa's chip sales.
 ----------------------------------------------------------------------
 ### 5. Dashboard  
-+ 
++  This power BI dashboard offers insights on Sales, customers and store details
++  Sales : by month, year, affluence, lifestages , brand etc
++  Customers : by store, by year , by affluence , by lifestages etc
++  Detailed Breakup of each store on : sales, average order value, sales per month, quantity sold etc.
 
+Page 1 : Sales Details 
+
+![Sales](https://github.com/prati1201/Retail-Analysis/blob/main/sales.jpg)
+
+Page 2: Customer Details 
+![Customer](https://github.com/prati1201/Retail-Analysis/blob/main/customer.jpg)
 
