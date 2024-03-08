@@ -1,26 +1,29 @@
 # Retail-Analysis
 ----------------------------------------------------------------------
-Analysis of customers purchasing behaviour within a region .
+#### Analysis of customers purchasing behaviour within a region .
 
-# Problem Statement 
-**Inside sherpa is a retail company engaged in sales of chips accross various stores.**
--We need to present a strategic recommendation that is supported by data which can then used for the upcoming category review. 
--However, to do so, we need to analyse the data to understand the current purchasing trends and behaviours. 
--The client is particularly interested in customer segments and their chip purchasing behaviour. Consider what metrics would help describe the customers’ purchasing behaviour.  
-
+##### This project is a part of Quanitium Virtual job stimulation experience in Forage.
+##### I added a Power BI dashboard to convey insights in the form of an interactive dashboard. 
 ----------------------------------------------------------------------
-# Short Summary of the project 
-## 1. Data Cleaning
-    - The first step was to import both the files transaction data and purchase behaviour.
-    - Clean the data, look for outliers and impute brand names for each products .
-##  2. Exploratory Data Analysis 
-    - ### KPI's 
-        KPI's found were Total sales, sales per store, monthly sales per store, Quantity sold etc.
+## Short Project Summary
 
-    - ### Customer Segmentation
-        Customer segments based on lifestages, age groups and brands .
-        ("C:\Users\prati\Pictures\Screenshots\Screenshot 2024-03-08 222213.png")
+**Objective:** Inside Sherpa, a retail company specializing in chip sales, sought a strategic recommendation supported by data for an upcoming category review. The focus was on understanding current purchasing trends and customer behaviors.
 
-    - ### Brand Analysis 
-        Brand wise sales and popularity analysis
-        
+### 1. Data Preparation
+- Imported transaction and purchase behavior data.
+- Conducted data cleaning, identifying outliers, and imputing missing brand names for products.
+
+### 2. Exploratory Data Analysis (EDA)
+- Key Performance Indicators (KPIs) included total sales, sales per store, monthly sales per store, and quantity sold.
+- Explored customer segmentation based on life stages, age groups, and preferred brands.
+- Analyzed brand performance and popularity.
+
+### 3. Trial and Control Analysis
+- Assessed the impact of new trial layouts, providing data-driven recommendations on whether to roll out the trial layouts across all stores. 
+
+This analysis provides valuable insights into customer behavior and trends, guiding strategic decisions for Inside Sherpa's chip sales.
+----------------------------------------------------------------------
+### 5. Dashboard  
++ 
+
+
