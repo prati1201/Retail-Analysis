@@ -19,7 +19,10 @@
 - Analyzed brand performance and popularity.
 
 ### 3. Trial and Control Analysis
-- Assessed the impact of new trial layouts, providing data-driven recommendations on whether to roll out the trial layouts across all stores. 
+- Assessed the impact of new trial layouts, providing data-driven recommendations on whether to roll out the trial layouts across all stores.
+
+Here is a short picture summary of visualisations using Seaborn and Plotly Express. 
+![Visualisation](https://github.com/prati1201/Retail-Analysis/blob/main/Python%20Visualisations.png)
 
 ##### This analysis provides valuable insights into customer behavior and trends, guiding strategic decisions for Inside Sherpa's chip sales.
 ----------------------------------------------------------------------
